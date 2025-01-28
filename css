@@ -1,0 +1,47 @@
+
+.carousel.height{
+
+	height: 500px;
+}
+
+.newproduct{
+	text-align: center;
+	width: 100%;
+	height: 80%;
+	background-color:orange;
+}
+.p1{
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	padding-top: 15px;
+}
+.img height{
+	height: 400px;
+}
+.footer-height{
+	height: 100px;
+	color: #ddd;
+	text-align: center;
+	padding-top: 40px;
+}
+.ggg{
+	text-decoration: none;
+	color: #B88D02;
+}
+.kkk{
+	border: 5px dotted #B88D02;
+}
+.aaa{
+	box-shadow: 5px 5px #B88D02;
+	border-radius: 10px;
+}
+.lll{
+	box-shadow: 5px 5px #B88D02; 
+	border-radius: 10px;
+}
+.ooo{
+	border-radius: 10px;
+	box-shadow: 5px 5px #B88D02;
+	color: #B88D02;
+}
